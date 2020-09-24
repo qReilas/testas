@@ -15,11 +15,15 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin-top: 55px;
 }
 
-.para {
+    .labas {
+    text-align: center;
+}
+    .para {
     display: inline-block;
     font-family: 'Courier New', Courier, monospace;
     font-style: italic;
     padding: 10px;
+    background-color: green;
     color: yellow;
     margin-top: 65px;
 }
